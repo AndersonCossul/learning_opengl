@@ -1,0 +1,8 @@
+﻿  Game.cpp
+f:\aula 13-11\game\game\shader.h(51): warning C4101: 'infoLog': unreferenced local variable
+f:\aula 13-11\game\game\shader.h(50): warning C4101: 'success': unreferenced local variable
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  config.cpp
+  glad.c
+  Game.vcxproj -> F:\Aula 13-11\Game\Debug\Game.exe
